@@ -8,8 +8,4 @@
 
 https://blog.naver.com/dh971125/222649190414
 
- 대한 세부 설명은 위 블로그를 방문해주세요.
-
-
-# <결과화면>
-![Screenshot_20220215-173608_room_Example](https://user-images.githubusercontent.com/74042160/154051228-2d98f4b3-520b-4356-9a92-2e3d6ea84772.jpg)
+확장함수에 대한 세부 설명은 위 블로그를 방문해주세요.
